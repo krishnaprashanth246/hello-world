@@ -15,8 +15,6 @@ void printboth()
 }
 int main()
 {
-	printhello();
-	printname();
 	printboth();
 	return 0;
 }
