@@ -1,4 +1,4 @@
 # hello-world
-Initiation
+Initialization
 
-This is a trial.
+Attached new.c file
