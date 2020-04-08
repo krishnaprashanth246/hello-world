@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 void printhello()
 {
 	printf("Hello Krishna\n");
