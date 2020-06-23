@@ -3,4 +3,4 @@ Initialization
 
 Attached new.c file
 
-This is used to test rebase
+This line is modified 2nd time to test rebase
